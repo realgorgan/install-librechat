@@ -21,7 +21,7 @@ This script sets up a LibreChat environment on your Linux server. It also includ
 
 ## Features
 
-1. Install Supabase
+1. Install LibreChat
 2. Setup CloudFlare Tunnel
 3. Setup Tailscale
 
