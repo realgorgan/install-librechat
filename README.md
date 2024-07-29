@@ -2,7 +2,7 @@
 
 This script sets up a LibreChat environment on your Linux server. It also includes options for setting up a CloudFlare Tunnel and Tailscale for external access if you don't want to port forward.
 
-# Original repository is located here [here](https://github.com/danny-avila/LibreChat)
+# Original repository is located [here](https://github.com/danny-avila/LibreChat)
 
 ## Supported Operating Systems
 | Operating System | Version | Supported          
